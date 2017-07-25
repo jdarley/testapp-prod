@@ -1,0 +1,5 @@
+{
+  "environment.name" : "prod",
+  "service.name" : "testapp",
+  "service.port" : 8080
+}
